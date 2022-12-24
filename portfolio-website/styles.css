@@ -1,0 +1,16 @@
+@media (max-width: 1000px) {
+    :root {
+      --building-color1: #000;
+      --building-color2: #000;
+      --building-color3: #000;
+      --building-color4: #000;
+    }
+}
+
+#welcome-section {
+    height: 100vh;
+}
+
+#navbar {
+    position: fixed;
+}
